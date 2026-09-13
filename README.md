@@ -1,4 +1,3 @@
-Set-Content README.md @"
 # AI & Vision Challenge — Level 05 Multi-Light Relighting Engine
 **Event:** National Robotics Week 8th Edition | IEEE INSAT & IEEE RAS INSAT
 
