@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python
+numpy
+mediapipe
+timm
+matplotlib
+requests
+tqdm
